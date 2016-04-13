@@ -1,6 +1,6 @@
 # Android Customized listview
 
-this is a simple listview simple, but more beaty than the standard
+this is a simple listview, but more beauty than the standard
 
 ![alt tag](https://github.com/caiquecsx/Android-ListView/blob/master/device-2016-04-13-140736.png?raw=true)
 
